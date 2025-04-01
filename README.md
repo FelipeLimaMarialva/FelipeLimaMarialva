@@ -16,7 +16,7 @@
 ### Para contato, inspiração e portifolio, siga os botões abaixo!
  
 <div> 
-<a href="https://www.instagram.com/felipelimamarialva/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+<a href="https://www.instagram.com/felipelimamarialva/"><img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=Red"></a>
 <a href = "mailto:felipelimamarialva@gmail.com"><img src="https://img.shields.io/badge/Gmail-FFFFFF?style=for-the-badge&logo=gmail&logoColor=Red"></a>
 <a href="https://www.linkedin.com/in/felipe-lima-marialva"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
