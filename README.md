@@ -3,7 +3,7 @@
  <div>
    <a href="https://github.com/FelipeLimaMarialva">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeLimaMarialva&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeLimaMarialva&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeLimaMarialva&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
 <div style="display: inline_block"><br>
@@ -17,7 +17,13 @@
 ### Para contato, inspiração e portifolio, siga os botões abaixo!
  
 <div> 
-  <a href="https://www.instagram.com/felipelimamarialva/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:gemeos@devemdobro.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/felipe-lima-marialva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/felipelimamarialva/">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+</a>
+<a href = "mailto:felipelimamarialva@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-FFFFFF?style=for-the-badge&logo=gmail&logoColor=Red">
+</a>
+<a href="https://www.linkedin.com/in/felipe-lima-marialva">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 </div>
