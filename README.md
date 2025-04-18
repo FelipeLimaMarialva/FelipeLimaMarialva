@@ -59,7 +59,7 @@ Estou em busca da minha **primeira experiência na área**, com muita vontade de
 ### 🧠 Cursos & Certificados
 - **[Semana do Zero ao Programador Contratado]** – *Plataforma: Youtube, Discord*  
   <sub>📅 Conclusão: [31/03 - 06/04 / 2025] | 🔖 Carga Horária: [10 horas]</sub>  
-  [🔗 Ver Certificado](https://git-cert-link-devemdobro.replit.app/certificate)
+  [🔗 Ver Certificado](https://www.linkedin.com/posts/felipe-lima-marialva_mesmo-com-um-certo-atraso-j%C3%A1-que-eu-descobri-activity-7318039105857085442-OzMh?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFlVojcBqvW0KgQ4IUNDhdA3ZiITcNxahis)
 
 - **[Ri Happy - Front-end do Zero]** – *Plataforma: DIO*  
   <sub>📅 Conclusão: [Em Andamento...] | 🔖 Carga Horária: [75 horas]</sub>  
