@@ -35,7 +35,6 @@ Estou em busca da minha **primeira experiência na área**, com muita vontade de
 ## 💼 Meus Ultimos Projetos
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=FelipeLimaMarialva&repo=Projeto-Pokemon&bg_color=0d1117&border_color=28a745&show_icons=true&icon_color=28a745&title_color=6affb4&text_color=c9fdd7)](https://github.com/FelipeLimaMarialva/Projeto-Pokemon)
-
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=FelipeLimaMarialva&repo=dio-lab-open-source&bg_color=0d1117&border_color=28a745&show_icons=true&icon_color=28a745&title_color=6affb4&text_color=c9fdd7)](https://github.com/FelipeLimaMarialva/dio-lab-open-source)
 
 ---
