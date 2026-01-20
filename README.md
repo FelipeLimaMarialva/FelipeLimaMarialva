@@ -46,10 +46,6 @@ Estou em busca da minha **primeira experiência na área**, com muita vontade de
     height="180em"
     src="https://github-readme-stats.vercel.app/api?username=FelipeLimaMarialva&theme=transparent&bg_color=0d1117&border_color=1ABC9C&show_icons=true&icon_color=F1C40F&title_color=1ABC9C&text_color=ffffff"
   />
-  <img 
-    height="180em"
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=FelipeLimaMarialva&layout=compact&bg_color=0d1117&border_color=1ABC9C&title_color=1ABC9C&text_color=ffffff"
-  />
 </p>
 
 ---
@@ -57,12 +53,20 @@ Estou em busca da minha **primeira experiência na área**, com muita vontade de
 ## 📚 Certificações / Formação / Cursos
 
 ### 🧠 Cursos & Certificados
-- **[Semana do Zero ao Programador Contratado]** – *Plataforma: Youtube, Discord*  
-  <sub>📅 Conclusão: [31/03 - 06/04 / 2025] | 🔖 Carga Horária: [10 horas]</sub>  
-  [🔗 Ver Certificado](https://www.linkedin.com/posts/felipe-lima-marialva_mesmo-com-um-certo-atraso-j%C3%A1-que-eu-descobri-activity-7318039105857085442-OzMh?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFlVojcBqvW0KgQ4IUNDhdA3ZiITcNxahis)
 
-- **[Ri Happy - Front-end do Zero]** – *Plataforma: DIO*  
-  <sub>📅 Conclusão: [Em Andamento...] | 🔖 Carga Horária: [75 horas]</sub>  
+- **[Microsoft 50 Anos - Prompts Inteligentes]** – *Plataforma: DIO* / [🔗 Ver Certificado](https://drive.google.com/file/d/1OYBrjJ4xdBQsCTwlkP-sxlH-nY5xBcT5/view?usp=sharing)
+
+<sub>📅 Conclusão: [29/04/2025] | 🔖 Carga Horária: [15 horas]</sub> 
+⠀⠀
+⠀⠀ㅤ
+- **[Formação HTML Web Developer]** – *Plataforma: DIO* / [🔗 Ver Certificado](https://drive.google.com/file/d/1HyuLzLVr4QqpEnWEEg_fVc4E0WtUvVOL/view?usp=sharing)
+
+<sub>📅 Conclusão: [20/01/2026] | 🔖 Carga Horária: [21 horas]</sub> 
+⠀⠀
+⠀⠀
+- **[Formação CSS Web Developer]** – *Plataforma: DIO*  
+
+<sub>📅 Conclusão: [Ainda em andamento...] | 🔖 Carga Horária: [43 horas]</sub>  
 
 ### 👨🎓 Formação Acadêmica
 
@@ -73,7 +77,6 @@ Estou em busca da minha **primeira experiência na área**, com muita vontade de
 ## 📱 Redes Sociais e Formas de Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/felipe-lima-marialva)
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/felipelimamarialva/)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:felipelimamarialva@gmail.com)
 - *Portfólio em andamento...*
 
