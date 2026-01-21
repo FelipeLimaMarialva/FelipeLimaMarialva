@@ -76,7 +76,7 @@ Estou em busca da minha **primeira experiência na área**, com muita vontade de
 
 ## 📱 Redes Sociais e Formas de Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/felipe-lima-marialva)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-lima-marialva/)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:felipelimamarialva@gmail.com)
 - *Portfólio em andamento...*
 
